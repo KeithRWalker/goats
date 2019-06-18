@@ -1,7 +1,7 @@
 const goats = [
   {
     id: 'goat1',
-    name: 'billy',
+    name: 'Billy',
     disposition: 'rude',
     imageUrl: 'https://ichef.bbci.co.uk/news/624/cpsprodpb/C271/production/_98677794_gettyimages-486869012.jpg',
     fullness: 67,
@@ -41,7 +41,7 @@ const goats = [
   },
   {
     id: 'goat5',
-    name: 'billy',
+    name: 'Rupert',
     disposition: 'gifted',
     imageUrl: 'http://thelibertarianrepublic.com/wp-content/uploads/2015/05/sexy-goat.jpg',
     fullness: 100,
@@ -51,4 +51,4 @@ const goats = [
   },
 ];
 
-export default { goats };
+export default goats;
